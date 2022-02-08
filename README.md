@@ -38,3 +38,11 @@ This file tells the user that they have successfully registrated for my website.
 ### application.py 
 This is where the python code is written and is the main file for this flask application.
 
+### books.csv
+This file contains all the books that were imported.
+
+### import.py
+This python file imports the information in the books.csv file into a table in the database.
+
+### requirements.txt
+This file contains a list of python packages that you need installed to run this flask application.
